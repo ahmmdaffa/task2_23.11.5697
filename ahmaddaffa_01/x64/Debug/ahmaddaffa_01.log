@@ -1,0 +1,3 @@
+﻿  main'.cpp
+C:\Users\daffa\Documents\23.11.5697\01\ahmaddaffa_01\main'.cpp(17,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ahmaddaffa_01.vcxproj -> C:\Users\daffa\Documents\23.11.5697\01\x64\Debug\ahmaddaffa_01.exe
